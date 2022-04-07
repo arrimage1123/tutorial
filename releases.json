@@ -1,1 +1,5 @@
-{"test-release2":https}
+{
+  "test-release2":"https://github.com/arrimage1123/tutorial/releases/download/test-tag2/hello.exe"
+  "test-release1":"https://github.com/arrimage1123/tutorial/releases/download/test-tag1/hello.exe"
+  "test-release0":"https://github.com/arrimage1123/tutorial/releases/download/test-tag0/hello.exe"
+}
